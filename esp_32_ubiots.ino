@@ -5,10 +5,10 @@
 #include <PubSubClient.h>
 
 
-#define WIFISSID "Intra_Net" // Put your WifiSSID here
-#define PASSWORD "12345678" // Put your wifi password here
-#define TOKEN "BBFF-ILYGSc8iLgtLB3uAGcFqUfhiCDe9re" // Put your Ubidots' TOKEN
-#define MQTT_CLIENT_NAME "VIJETHESP32" //KISHANESP32
+#define WIFISSID "YOUR PASSWORD" // Put your WifiSSID here
+#define PASSWORD "YOUR WIFI PASSWORD" // Put your wifi password here
+#define TOKEN "YOUR UBIDOTS TOKEN" // Put your Ubidots' TOKEN
+#define MQTT_CLIENT_NAME "UNIQUE 8-12 ASCII NAME" //KISHANESP32
 
 #define VARIABLE_LABEL "led_1"
 #define VARIABLE_LABEL_SUBSCRIBE "led_2"
