@@ -8,7 +8,7 @@
 #define WIFISSID "YOUR PASSWORD" // Put your WifiSSID here
 #define PASSWORD "YOUR WIFI PASSWORD" // Put your wifi password here
 #define TOKEN "YOUR UBIDOTS TOKEN" // Put your Ubidots' TOKEN
-#define MQTT_CLIENT_NAME "UNIQUE 8-12 ASCII NAME" //KISHANESP32
+#define MQTT_CLIENT_NAME "UNIQUE 8-12 ASCII NAME" 
 
 #define VARIABLE_LABEL "led_1"
 #define VARIABLE_LABEL_SUBSCRIBE "led_2"
